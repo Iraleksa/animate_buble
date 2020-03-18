@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1574355238579.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3980973130",
+    "id" : "AEEAA4B1",
+    "lastKnownWriteTime" : 1564704470,
+    "last_content_update" : 1564704470,
+    "path" : "~/Learning/R projects/Downloaded projects/Wifi-master/Skripts/Preprocessing.R",
+    "project_path" : null,
+    "properties" : {
+        "cursorPosition" : "44,0",
+        "scrollLine" : "0"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}

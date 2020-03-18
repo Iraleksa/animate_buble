@@ -1,0 +1,25 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578343903497.000,
+    "dirty" : true,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "2CDDA2DA",
+    "lastKnownWriteTime" : 1574417398,
+    "last_content_update" : 1584543993521,
+    "path" : "D:/Study/R Projects/Other projects/animate_buble/script/animate_buble.R",
+    "project_path" : "script/animate_buble.R",
+    "properties" : {
+        "cursorPosition" : "130,0",
+        "scrollLine" : "107"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
